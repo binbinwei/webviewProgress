@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\demo\Android_webView_pro1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\demo\Android_webView_pro1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_fd5eb9972f65c8eb792f0d3d2e2a6d8d0c0aee06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tool\AllSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\demo\Android_webView_pro1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_eaa22f70db36a4f7fd55c5946a8bfcab0ac53fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demo\Android_webView_pro1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\demo\Android_webView_pro1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_207e2a8f603fa749ba85331e720078eb9c5bc839.jar" />
+    </item>
+
+</items>
